@@ -1,5 +1,5 @@
 ## Interface: 11506
-## Title: Blood
+## Title: BloodOfHeroes
 ## Version: 1.0.0
 ## Author: Neok
 ## DefaultState: enabled
