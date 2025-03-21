@@ -218,7 +218,7 @@ local function AddMapMarkers()
             pin.texture = pin:CreateTexture(nil, "OVERLAY")
             pin.texture:SetAllPoints()
             
-            local texturePath = "Interface\\AddOns\\Blood\\Media\\blood-of-heroes-marker.tga"
+            local texturePath = "Interface\\AddOns\\BloodOfHeroes\\Media\\blood-of-heroes-marker.tga"
             local success = pin.texture:SetTexture(texturePath)
             
             if not success then
